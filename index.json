@@ -170,3 +170,28 @@
         <img src="../global/file/edit-section.svg" data-type="img-edit">
       </button>
   </section>
+  
+    
+    
+    <section id="mENfFlJ" data-type="section">
+    <style id="JCmWMGd" type="text/css">
+      
+    @media screen and (min-width:0px){#mENfFlJ{width:100%;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#iMXWfON{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#qNzNKNb{object-fit:cover;height:100%;min-height:100vh;width:100%}}
+    @media screen and (min-width:0px){#vVQbPcf{object-fit:cover;height:100%;min-height:100vh;width:100%}}
+    @media screen and (max-width:640px){#iMXWfON{width:100%;height:100%;display:grid;place-content:center; grid-template-columns: 1fr;}}
+    @media screen and (max-width:640px){#qNzNKNb{object-fit:cover;height:100%;min-height:50vh;width:100%}}
+    @media screen and (max-width:640px){#vVQbPcf{object-fit:cover;height:100%;min-height:50vh;width:100%}}
+    
+    </style>
+    
+      <div id="iMXWfON" data-type="grid" class="grid-section">
+          <img id="qNzNKNb" class="grid-item" src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNTJ8fGRhcmslMjBmb29kfGVufDB8MHx8fDE3MTAyNzk1NjV8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="vVQbPcf" class="grid-item" src="https://images.unsplash.com/photo-1531970227416-f0cddeb1f748?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNjd8fGRhcmslMjBmb29kfGVufDB8MHx8fDE3MTAyNzk2MTR8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">   
+      </div>
+
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg" data-type="img-edit">
+    </button>
+  </section>
