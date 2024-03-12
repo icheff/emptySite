@@ -4,6 +4,7 @@ body {
 font-family: 'Poppins', sans-serif;
 overflow-x: hidden;
 width: 100%;
+background-color: #263238;
 }
 
 .grid-page {
@@ -12,8 +13,6 @@ position:relative;
 width:100vw;
 padding: 50px;
 gap:10px;
-z-index:-1;
-background-color: #263238;
 }
 
 .grid-section {
