@@ -1,0 +1,34 @@
+<section id="QgsCIVO" data-type="section">
+    <style id="nayPVcK" type="text/css">
+      
+    @media screen and (min-width:0px){#QgsCIVO{width:100%;height:100%;position:relative}}
+    @media screen and (min-width:0px){#NIVbSEY{width:100%;height:100%;display:grid;grid-template-columns:1fr 1fr;}}
+    @media screen and (min-width:0px){#DVeXqQa{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#DGZuYvW{background:white;display:grid;padding:10%;place-content:center;}}
+    @media screen and (min-width:0px){#DaUAUMT{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#dxojmlh{background:white;display:grid;padding:10%;place-content:center;}}
+
+    @media screen and (max-width:640px){#NIVbSEY{width:100%;height:100%;display:grid;grid-template-columns:1fr;}}
+    @media screen and (max-width:640px){#dxojmlh{order:3}}
+ 
+    
+    </style>
+    
+      <div id="NIVbSEY" data-type="grid" class="grid-section">
+ 
+          <img id="DVeXqQa" class="grid-item" src="https://images.unsplash.com/photo-1550807014-1236e91b92d4?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEwMjc1NTM4fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <div id="DGZuYvW" class="grid-item">
+            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea </p>
+          </div>
+          <div id="dxojmlh" class="grid-item"> 
+            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea </p> 
+          </div>
+          <img id="DaUAUMT" class="grid-item" src="https://images.unsplash.com/photo-1536534692336-1dc9e76ed9c6?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMDI3NTUzOHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          
+      </div>
+
+
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg" data-type="img-edit">
+    </button>
+  </section>
