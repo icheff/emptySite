@@ -1,28 +1,39 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');body { font-family: 'Poppins', sans-serif; }
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+font-family: 'Poppins', sans-serif;
+overflow-x: hidden;
+width: 100%;
+}
+
 .grid-page {
-    display: grid;
-    position:relative;
-    width:100vw;
-    padding: 50px;
-    gap:10px;
-    z-index:-1;
-    background-color: #263238;
+display: grid;
+position:relative;
+width:100vw;
+padding: 50px;
+gap:10px;
+z-index:-1;
+background-color: #263238;
 }
+
 .grid-section {
-	display:grid;
-	gap:10px;
+display:grid;
+gap:10px;
 }
+
 .grid-item {
-    border-radius:10px;
-    overflow: hidden;
+border-radius:10px;
+overflow: hidden;
 }
+
 .grid-text {
-	padding:15%;
-    gap:15px;
+padding:15%;
+gap:15px;
 }
+
 @media screen and (max-width: 640px) {
-    .grid-page {
-      padding: 10px;
-      gap:10px;
-  	}
+.grid-page {
+padding: 10px;
+gap:10px;
+}
 }
