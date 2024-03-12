@@ -16,3 +16,7 @@
     border-radius:10px;
     overflow: hidden;
 }
+.grid-text {
+	padding:15%;
+    gap:15px;
+}
