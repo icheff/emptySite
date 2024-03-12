@@ -125,3 +125,48 @@
       <img src="../global/file/edit-section.svg" data-type="img-edit">
     </button>
   </section>
+  
+    
+    
+    <section id="rhgypuK" data-type="section">
+      <style id="dZdihcl" type="text/css">
+        
+    @media screen and (min-width:0px){#rhgypuK{width:100%;height:100vh;position:relative}}
+
+    @media screen and (min-width:0px){#gVRmfax{width:100%;height:100%;display:grid; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#HeqClMm{object-fit:cover;height:100%;min-height:100vh;width:100%;background:white;}}
+    @media screen and (min-width:0px){#uKLdayO{display:grid;place-content:center;background:white;}}
+    @media screen and (min-width:0px){#nxMJlZp{font-size: clamp(2rem,3vw,4rem);line-height:1;}}
+    @media screen and (min-width:0px){#hyRgaxd{font-size:1rem;}}
+    @media screen and (min-width:0px){#wKqPIIj{display:flex;gap:15px;}}
+
+    @media screen and (max-width:640px){#gVRmfax{width:100%;height:max-content;display:grid;grid-template-columns:1fr;}}
+    @media screen and (max-width:640px){#HeqClMm{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;order:1;}}
+    @media screen and (max-width:640px){#uKLdayO{min-height:50vh; display:grid;place-content:center;padding:10%;background:white;}}
+    
+    
+      </style>
+      
+        <div id="gVRmfax" data-type="grid" class="grid-section">
+        
+        <video id="HeqClMm" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/376197302/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=27e0495f056a68178b37af76d10546d4e0b2521af921d280646f4708e29f031b">
+          <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
+        </video>
+
+      
+        <div id="uKLdayO" class="grid-item grid-text">
+          <h2 id="nxMJlZp" contenteditable="true">Ut enim ad minim veniam quis nostrud</h2>
+          <p id="hyRgaxd" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+          <div id="wKqPIIj">
+            <a id="EwTPuyE" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            <a id="KtaAblb" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          </div>
+        </div>
+
+        </div>
+
+
+      <button class="toolbar-open" onclick="toolsOpenModal(this)">
+        <img src="../global/file/edit-section.svg" data-type="img-edit">
+      </button>
+  </section>
