@@ -1,66 +1,34 @@
-<section id="eFINxJZ" data-type="section" class="grid-item"><style id="XyVTqOj" type="text/css">
+<section id="dJMxhqA" data-type="section">
+    <style id="QyeTpUk" type="text/css">
       
-    @media screen and (min-width:0px){#eFINxJZ{width:100%;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#xOqfGHt{width:100%;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#mKRlWvS{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#UymWIkm{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#rmjggFV{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#FLrOxbH{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#gIYSYEU{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#ioAyyhh{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#wttCmbJ{width:100%;height:100%;display:grid;place-content: center; background: #00000052;}}
-    @media screen and (min-width:0px){#PYQPYgT{display: grid; padding: 5%; max-width:1050px;gap:15px;place-items:center;text-align: center;}}
-    @media screen and (min-width:0px){#sGVfZDx{font-size: clamp(3rem, 12vw, 7rem);line-height:1;font-weight:200;color: white;}}
-    @media screen and (min-width:0px){#ypixmCb{font-size:1rem;color:white;}}
-    @media screen and (min-width:0px){#JTMXvbu{display:flex;gap:10px;}}
-    @media screen and (min-width:0px){#hrCRxzl{border: 3px solid white; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
-    @media screen and (min-width:0px){#imbLfTF{background: white; padding: 0 15px; color:black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
+    @media screen and (min-width:0px){#dJMxhqA{width:100%;height:100%;position:relative}}
+    @media screen and (min-width:0px){#rluwKyS{width:100%;height:100%;display:grid;grid-template-columns:1fr 1fr;}}
+    @media screen and (min-width:0px){#ohFojNe{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#VHovOzg{background:white;display:grid;padding:10%;place-content:center;}}
+    @media screen and (min-width:0px){#wyZSMlv{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#xuebLjn{background:white;display:grid;padding:10%;place-content:center;}}
+
+    @media screen and (max-width:640px){#rluwKyS{width:100%;height:100%;display:grid;grid-template-columns:1fr;}}
+    @media screen and (max-width:640px){#xuebLjn{order:3}}
+ 
     
-    </style><div id="xOqfGHt" data-type="container"><div id="VhAsbhn" data-type="backgrounds"><div id="UymWIkm" data-type="bg-color" class="div-hidden"><div id="rmjggFV" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div><div id="FLrOxbH" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div><div id="gIYSYEU" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div></div><!-- bg-color --><div id="xkOdmyo" data-type="bg-image" class="div-visible"><picture id="XYTosOz"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="mKRlWvS" src="https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2fHxmb29kfGVufDB8MHx8fDE3MTAxOTMwNDF8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="NnJDPPt" data-type="bg-video" class="div-hidden"><video id="ioAyyhh" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div><!-- bg-video --></div><!-- backgrounds --><div id="wttCmbJ" data-type="content"><div id="PYQPYgT"><h2 id="sGVfZDx" contenteditable="true">Lorem ipsum dolor sit amet</h2><p id="ypixmCb" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p><div id="JTMXvbu"><a id="hrCRxzl" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="imbLfTF" contenteditable="true" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+    </style>
     
-    <section id="cIXPAGE" data-type="section">
-      <style id="WxRLDwM" type="text/css">
-        
-    @media screen and (min-width:0px){#cIXPAGE{width:100%;height:100vh;position:relative}}
-
-    @media screen and (min-width:0px){#BjkGLKw{width:100%;height:100%;display:grid; grid-template-columns: 1fr 1fr;}}
-    @media screen and (min-width:0px){#LsdZALK{object-fit:cover;height:100%;min-height:50vh;width:100%;background:white;}}
-    @media screen and (min-width:0px){#OxzVObY{object-fit:cover;height:100%;min-height:50vh;width:100%;background:white;}}
-    @media screen and (min-width:0px){#FdDeNXa{object-fit:cover;height:100%;min-height:50vh;width:100%;background:white;}}
-    @media screen and (min-width:0px){#JAEGlXx{object-fit:cover;height:100%;min-height:50vh;width:100%;background:white;}}
-
-    @media screen and (max-width:640px){#BjkGLKw{width:100%;height:max-content;display:grid;grid-template-columns:1fr;}}
-    @media screen and (max-width:640px){#LsdZALK{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;}}
-    @media screen and (max-width:640px){#OxzVObY{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;}}
-    @media screen and (max-width:640px){#FdDeNXa{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;}}
-    @media screen and (max-width:640px){#JAEGlXx{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;}}
-    
-    
-      </style>
-      
-        <div id="BjkGLKw" data-type="grid" class="grid-section">
-        
-        <video id="LsdZALK" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/376197302/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=27e0495f056a68178b37af76d10546d4e0b2521af921d280646f4708e29f031b">
-          <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
-        </video>
-
-        <video id="OxzVObY" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/355357902/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=6c10d7aa8db7dece40ed6377180e473d3a52cc6e6a59a0f4520219c61c24f681">
-          <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
-        </video>
-
-        <video id="FdDeNXa" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/308049044/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=8715af913812ff147a57ba4667d6158068fdd00bd4123cedd604807571bbcd82">
-          <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
-        </video>
-
-        <video id="JAEGlXx" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/371616616/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=ea57405960364dd1f266de22f2b0601a604888e1e338cc6eacb22c15ccbc88ba">
-          <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
-        </video>
+      <div id="rluwKyS" data-type="grid" class="grid-section">
+ 
+          <img id="ohFojNe" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="img-grid" loading="lazy">
+          <div id="VHovOzg" class="grid-item">
+            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea </p>
+          </div>
+          <div id="xuebLjn" class="grid-item"> 
+            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea </p> 
+          </div>
+          <img id="wyZSMlv" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/3.svg" data-type="img-grid" loading="lazy">
+          
+      </div>
 
 
-        </div>
-
-
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg" data-type="img-edit">
-      </button>
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg" data-type="img-edit">
+    </button>
   </section>
