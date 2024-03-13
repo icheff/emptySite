@@ -1,0 +1,86 @@
+<section id="hqrCZYX" data-type="section">
+      <style id="qePQSwG" type="text/css">
+        
+    @media screen and (min-width:0px){#hqrCZYX{}}
+    @media screen and (min-width:0px){#uWWEqnf{background: #1a2226;display:grid;grid-template-columns:150px 1fr;place-items: center end;}}
+    @media screen and (min-width:0px){#sQzpZmC{height:50;width:150px;}}
+    @media screen and (min-width:0px){#TkRMHkH{display:flex;gap:20px;margin-right:20px; color:white; font-size:12px;}}
+      </style>
+      
+        <div id="uWWEqnf" data-type="grid">
+            <img id="sQzpZmC" src="https://raw.githubusercontent.com/icheff/energia.fr/main/media/images/logo-white.svg" data-type="img-grid" loading="lazy">
+            <div id="TkRMHkH">
+              <a id="GxuARKS" contenteditable="true" href="https://www">MENU</a>
+             
+            </div>
+        </div>
+
+
+      <button class="toolbar-open" onclick="toolsOpenModal(this)">
+        <img src="../global/file/edit-section.svg" data-type="img-edit">
+      </button>
+  </section>
+  
+    
+    
+    <section id="qIQaFcz" data-type="section" class="grid-item">
+    <style id="TLFIYkz" type="text/css">
+      
+    @media screen and (min-width:0px){#qIQaFcz{width:100%;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#NJdTGwQ{width:100%;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#dJcKTmZ{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#WVrZHWB{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#YlREtwu{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#mSockjc{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#lmTEuyO{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+    @media screen and (min-width:0px){#cpEmUdm{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+    @media screen and (min-width:0px){#daAuOjK{width:100%;height:100%;display:grid;place-content: center; background: #00000052;}}
+    @media screen and (min-width:0px){#bRoyrnW{display: grid; padding: 5%; max-width:1050px;gap:15px;place-items:center;text-align: center;}}
+    @media screen and (min-width:0px){#hRhshZl{font-size: clamp(3rem, 12vw, 7rem);line-height:1;font-weight:200;color: white;}}
+    @media screen and (min-width:0px){#FKiAWNq{font-size:1rem;color:white;}}
+    @media screen and (min-width:0px){#NDkJGlO{display:flex;gap:10px;}}
+    @media screen and (min-width:0px){#eciqEid{border: 3px solid white; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
+    @media screen and (min-width:0px){#gHxVOZw{background: white; padding: 0 15px; color:black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
+    
+    </style>
+    
+    <div id="NJdTGwQ" data-type="container">
+      <div id="TMsgYbf" data-type="backgrounds">
+        
+        <div id="WVrZHWB" data-type="bg-color" class="div-hidden">
+          <div id="YlREtwu" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div>
+          <div id="mSockjc" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+          <div id="lmTEuyO" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+        </div> <!-- bg-color -->
+  
+        <div id="KIIfNpL" data-type="bg-image" class="div-visible">
+          <picture id="SWYiIvg">
+            <source srcset="" media="(max-width:640px)">
+            <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+            <img id="dJcKTmZ" src="https://images.unsplash.com/photo-1468436139062-f60a71c5c892?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxtYWN8ZW58MHwwfHx8MTcxMDM2MDMyOHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
+          </picture>
+        </div> <!-- bg-image -->
+  
+        <div id="BuUzkrI" data-type="bg-video" class="div-hidden">
+          <video id="cpEmUdm" autoplay="" loop="" muted="" loading="lazy">
+          <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
+          </video>
+        </div> <!-- bg-video -->
+  
+      </div> <!-- backgrounds -->
+  
+      <div id="daAuOjK" data-type="content">
+        <div id="bRoyrnW">
+          <h2 id="hRhshZl" contenteditable="true">Lorem ipsum dolor sit amet</h2>
+          <p id="FKiAWNq" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p>
+          <div id="NDkJGlO">
+            <a id="eciqEid" contenteditable="true" href="https://www">LOREM IPSUM</a>
+            <a id="gHxVOZw" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          </div> <!-- div2ID -->
+        </div> <!-- div1ID -->
+      </div> <!-- content -->
+    </div> <!-- container -->
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg">
+    </button>
+  </section>
