@@ -154,3 +154,38 @@
       <img src="../global/file/edit-section.svg" data-type="img-edit">
     </button>
   </section>
+    
+    <section id="lfoKMMG" data-type="section">
+      <style id="HyZXQHx" type="text/css">
+        
+    @media screen and (min-width:0px){#lfoKMMG{width:100%;height:100vh;position:relative}}
+
+    @media screen and (min-width:0px){#TivnxhA{width:100%;height:100%;display:grid; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#jPWAiZn{object-fit:cover;height:100%;min-height:100vh;width:100%;background:white;}}
+    @media screen and (min-width:0px){#mQXAMMV{object-fit:cover;height:100%;min-height:100vh;width:100%;background:white;}}
+
+    @media screen and (max-width:640px){#TivnxhA{width:100%;height:max-content;display:grid;grid-template-columns:1fr;}}
+    @media screen and (max-width:640px){#jPWAiZn{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;}}
+    @media screen and (max-width:640px){#mQXAMMV{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;}}
+    
+    
+      </style>
+      
+        <div id="TivnxhA" data-type="grid" class="grid-section">
+        
+        <video id="jPWAiZn" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/376197302/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=27e0495f056a68178b37af76d10546d4e0b2521af921d280646f4708e29f031b">
+          <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
+        </video>
+
+        <video id="mQXAMMV" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/376152355/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=7f29909e196471bc00202c8aed5363963510c9d0aebefa775d1b28772fb4a8fe">
+          <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
+        </video>
+
+
+        </div>
+
+
+      <button class="toolbar-open" onclick="toolsOpenModal(this)">
+        <img src="../global/file/edit-section.svg" data-type="img-edit">
+      </button>
+  </section>
