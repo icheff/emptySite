@@ -1,5 +1,4 @@
-<section id="eFINxJZ" data-type="section" class="grid-item">
-    <style id="XyVTqOj" type="text/css">
+<section id="eFINxJZ" data-type="section" class="grid-item"><style id="XyVTqOj" type="text/css">
       
     @media screen and (min-width:0px){#eFINxJZ{width:100%;height:100vh;position:relative}}
     @media screen and (min-width:0px){#xOqfGHt{width:100%;height:100vh;position:relative}}
@@ -17,146 +16,43 @@
     @media screen and (min-width:0px){#hrCRxzl{border: 3px solid white; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
     @media screen and (min-width:0px){#imbLfTF{background: white; padding: 0 15px; color:black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
     
-    </style>
+    </style><div id="xOqfGHt" data-type="container"><div id="VhAsbhn" data-type="backgrounds"><div id="UymWIkm" data-type="bg-color" class="div-hidden"><div id="rmjggFV" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div><div id="FLrOxbH" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div><div id="gIYSYEU" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div></div><!-- bg-color --><div id="xkOdmyo" data-type="bg-image" class="div-visible"><picture id="XYTosOz"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="mKRlWvS" src="https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2fHxmb29kfGVufDB8MHx8fDE3MTAxOTMwNDF8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="NnJDPPt" data-type="bg-video" class="div-hidden"><video id="ioAyyhh" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div><!-- bg-video --></div><!-- backgrounds --><div id="wttCmbJ" data-type="content"><div id="PYQPYgT"><h2 id="sGVfZDx" contenteditable="true">Lorem ipsum dolor sit amet</h2><p id="ypixmCb" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p><div id="JTMXvbu"><a id="hrCRxzl" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="imbLfTF" contenteditable="true" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
     
-    <div id="xOqfGHt" data-type="container">
-      <div id="VhAsbhn" data-type="backgrounds">
+    <section id="cIXPAGE" data-type="section">
+      <style id="WxRLDwM" type="text/css">
         
-        <div id="UymWIkm" data-type="bg-color" class="div-hidden">
-          <div id="rmjggFV" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div>
-          <div id="FLrOxbH" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
-          <div id="gIYSYEU" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
-        </div> <!-- bg-color -->
-  
-        <div id="xkOdmyo" data-type="bg-image" class="div-visible">
-          <picture id="XYTosOz">
-            <source srcset="" media="(max-width:640px)">
-            <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-            <img id="mKRlWvS" src="https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2fHxmb29kfGVufDB8MHx8fDE3MTAxOTMwNDF8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
-          </picture>
-        </div> <!-- bg-image -->
-  
-        <div id="NnJDPPt" data-type="bg-video" class="div-hidden">
-          <video id="ioAyyhh" autoplay="" loop="" muted="" loading="lazy">
-          <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
-          </video>
-        </div> <!-- bg-video -->
-  
-      </div> <!-- backgrounds -->
-  
-      <div id="wttCmbJ" data-type="content">
-        <div id="PYQPYgT">
-          <h2 id="sGVfZDx" contenteditable="true">Lorem ipsum dolor sit amet</h2>
-          <p id="ypixmCb" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p>
-          <div id="JTMXvbu">
-            <a id="hrCRxzl" contenteditable="true" href="https://www">LOREM IPSUM</a>
-            <a id="imbLfTF" contenteditable="true" href="https://www">LOREM IPSUM</a>
-          </div> <!-- div2ID -->
-        </div> <!-- div1ID -->
-      </div> <!-- content -->
-    </div> <!-- container -->
-    <button class="toolbar-open" onclick="toolsOpenModal(this)">
-      <img src="../global/file/edit-section.svg">
-    </button>
-  </section><section id="QgsCIVO" data-type="section">
-    <style id="nayPVcK" type="text/css">
-      
-    @media screen and (min-width:0px){#QgsCIVO{width:100%;height:100%;position:relative}}
-    @media screen and (min-width:0px){#NIVbSEY{width:100%;height:100%;display:grid;grid-template-columns:1fr 1fr;}}
-    @media screen and (min-width:0px){#DVeXqQa{object-fit:cover;height:100%;height:50vh;width:100vw}}
-    @media screen and (min-width:0px){#DGZuYvW{background:white;display:grid;padding:10%;place-content:center;}}
-    @media screen and (min-width:0px){#DaUAUMT{object-fit:cover;height:100%;height:50vh;width:100vw}}
-    @media screen and (min-width:0px){#dxojmlh{background:white;display:grid;padding:10%;place-content:center;}}
+    @media screen and (min-width:0px){#cIXPAGE{width:100%;height:100vh;position:relative}}
 
-    @media screen and (max-width:640px){#NIVbSEY{width:100%;height:100%;display:grid;grid-template-columns:1fr;}}
-    @media screen and (max-width:640px){#dxojmlh{order:3}}
- 
-    
-    </style>
-    
-      <div id="NIVbSEY" data-type="grid" class="grid-section">
- 
-          <img id="DVeXqQa" class="grid-item" src="https://images.unsplash.com/photo-1550807014-1236e91b92d4?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEwMjc1NTM4fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-          <div id="DGZuYvW" class="grid-item">
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea </p>
-          </div>
-          <div id="dxojmlh" class="grid-item"> 
-            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea </p> 
-          </div>
-          <img id="DaUAUMT" class="grid-item" src="https://images.unsplash.com/photo-1536534692336-1dc9e76ed9c6?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMDI3NTUzOHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-          
-      </div>
+    @media screen and (min-width:0px){#BjkGLKw{width:100%;height:100%;display:grid; grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#LsdZALK{object-fit:cover;height:100%;min-height:50vh;width:100%;background:white;}}
+    @media screen and (min-width:0px){#OxzVObY{object-fit:cover;height:100%;min-height:50vh;width:100%;background:white;}}
+    @media screen and (min-width:0px){#FdDeNXa{object-fit:cover;height:100%;min-height:50vh;width:100%;background:white;}}
+    @media screen and (min-width:0px){#JAEGlXx{object-fit:cover;height:100%;min-height:50vh;width:100%;background:white;}}
 
-
-    <button class="toolbar-open" onclick="toolsOpenModal(this)">
-      <img src="../global/file/edit-section.svg" data-type="img-edit">
-    </button>
-  </section>
-    
-    
-  
-    
-    
-    <section id="tEwWQqt" data-type="section">
-    <style id="dFezzdO" type="text/css">
-      
-    @media screen and (min-width:0px){#tEwWQqt{width:100%;height:100%;position:relative}}
-    @media screen and (min-width:0px){#akdglOm{width:100%;height:100%;display:grid;grid-template-columns:1fr 1fr;}}
-    @media screen and (min-width:0px){#tTXuxJu{object-fit:cover;height:100%;height:50vh;width:100vw}}
-    @media screen and (min-width:0px){#AjSpSlt{object-fit:cover;height:100%;height:50vh;width:100vw}}
-    @media screen and (min-width:0px){#VZIzsVc{object-fit:cover;height:100%;height:50vh;width:100vw}}
-    @media screen and (min-width:0px){#tKtNBPP{object-fit:cover;height:100%;height:50vh;width:100vw}}
-    @media screen and (max-width:640px){#akdglOm{width:100%;height:100%;display:grid;grid-template-columns:1fr;}}
- 
-    
-    </style>
-    
-      <div id="akdglOm" data-type="grid" class="grid-section">
- 
-          <img id="tTXuxJu" class="grid-item" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOXx8Zm9vZHxlbnwwfDB8fHwxNzEwMTkzMDQxfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-          <img id="AjSpSlt" class="grid-item" src="https://images.unsplash.com/photo-1496412705862-e0088f16f791?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Zm9vZHxlbnwwfDB8fHwxNzEwMTkzMDQxfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-          <img id="VZIzsVc" class="grid-item" src="https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0MHx8Zm9vZHxlbnwwfDB8fHwxNzEwMjc5MzUzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-          <img id="tKtNBPP" class="grid-item" src="https://images.unsplash.com/photo-1511909525232-61113c912358?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2MHx8Zm9vZHxlbnwwfDB8fHwxNzEwMjc5MzY0fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-
-      </div>
-
-
-    <button class="toolbar-open" onclick="toolsOpenModal(this)">
-      <img src="../global/file/edit-section.svg" data-type="img-edit">
-    </button>
-  </section>
-  
-    
-    
-    
-  
-    
-    
-    
-    
-    <section id="lfoKMMG" data-type="section">
-      <style id="HyZXQHx" type="text/css">
-        
-    @media screen and (min-width:0px){#lfoKMMG{width:100%;height:100vh;position:relative}}
-
-    @media screen and (min-width:0px){#TivnxhA{width:100%;height:100%;display:grid; grid-template-columns: 1fr 1fr;}}
-    @media screen and (min-width:0px){#jPWAiZn{object-fit:cover;height:100%;min-height:100vh;width:100%;background:white;}}
-    @media screen and (min-width:0px){#mQXAMMV{object-fit:cover;height:100%;min-height:100vh;width:100%;background:white;}}
-
-    @media screen and (max-width:640px){#TivnxhA{width:100%;height:max-content;display:grid;grid-template-columns:1fr;}}
-    @media screen and (max-width:640px){#jPWAiZn{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;}}
-    @media screen and (max-width:640px){#mQXAMMV{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;}}
+    @media screen and (max-width:640px){#BjkGLKw{width:100%;height:max-content;display:grid;grid-template-columns:1fr;}}
+    @media screen and (max-width:640px){#LsdZALK{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;}}
+    @media screen and (max-width:640px){#OxzVObY{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;}}
+    @media screen and (max-width:640px){#FdDeNXa{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;}}
+    @media screen and (max-width:640px){#JAEGlXx{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;}}
     
     
       </style>
       
-        <div id="TivnxhA" data-type="grid" class="grid-section">
+        <div id="BjkGLKw" data-type="grid" class="grid-section">
         
-        <video id="jPWAiZn" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/376197302/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=27e0495f056a68178b37af76d10546d4e0b2521af921d280646f4708e29f031b">
+        <video id="LsdZALK" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/376197302/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=27e0495f056a68178b37af76d10546d4e0b2521af921d280646f4708e29f031b">
           <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
         </video>
 
-        <video id="mQXAMMV" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/376152355/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=7f29909e196471bc00202c8aed5363963510c9d0aebefa775d1b28772fb4a8fe">
+        <video id="OxzVObY" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/355357902/rendition/240p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=6c10d7aa8db7dece40ed6377180e473d3a52cc6e6a59a0f4520219c61c24f681">
+          <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
+        </video>
+
+        <video id="FdDeNXa" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/308049044/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=8715af913812ff147a57ba4667d6158068fdd00bd4123cedd604807571bbcd82">
+          <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
+        </video>
+
+        <video id="JAEGlXx" class="grid-item" autoplay="" loop="" muted="" data-type="vid-grid" loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/371616616/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=ea57405960364dd1f266de22f2b0601a604888e1e338cc6eacb22c15ccbc88ba">
           <source src="https://github.com/IAMEDIA360/videos/raw/main/1795203691-1.mp4" type="video/mp4">
         </video>
 
