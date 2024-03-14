@@ -1,24 +1,24 @@
-<section id="nKuFtIE" data-type="section">
-      <style id="QRUutoB" type="text/css">
+<section id="xVxFNYo" data-type="section">
+      <style id="dRqdMqP" type="text/css">
         
-    @media screen and (min-width:0px){#nKuFtIE{position:sticky;top:0;z-index:100;}}
-    @media screen and (min-width:0px){#TaPaFtZ{background:#263238;display:grid;grid-template-columns:150px 1fr auto;place-items: center end;}}
-    @media screen and (min-width:0px){#NRRwRBp{height:50;width:150px;}}
-    @media screen and (min-width:0px){#fBFDpoC{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
-    @media screen and (min-width:0px){#QceZEUD{height:50;width:auto;}}
+    @media screen and (min-width:0px){#xVxFNYo{position:sticky;top:0;z-index:100;}}
+    @media screen and (min-width:0px){#OLpLDOg{background:#263238;display:grid;grid-template-columns:150px 1fr auto;place-items: center end;}}
+    @media screen and (min-width:0px){#BTQtBtr{height:50;width:150px;}}
+    @media screen and (min-width:0px){#notMDhC{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
+    @media screen and (min-width:0px){#pUemtJT{height:50;width:auto;margin-right:20px;}}
     
       </style>
       
-        <div id="TaPaFtZ" data-type="grid">
-            <img id="NRRwRBp" src="https://raw.githubusercontent.com/icheff/energia.fr/main/media/images/logo-white.svg" data-type="img-grid" loading="lazy">
-            <div id="fBFDpoC">
-              <a id="othVlEe" contenteditable="true" href="https://www">HOME</a>
-              <a id="kFgktsH" contenteditable="true" href="https://www">ABOUT</a> 
-              <a id="bIDWPTh" contenteditable="true" href="https://www">SERVICES</a> 
-              <a id="VbuKGcv" contenteditable="true" href="https://www">CONTACT</a> 
-              <a id="SkpwtCR" contenteditable="true" href="https://www">BLOG</a>  
+        <div id="OLpLDOg" data-type="grid">
+            <img id="BTQtBtr" src="https://raw.githubusercontent.com/icheff/energia.fr/main/media/images/logo-white.svg" data-type="img-grid" loading="lazy">
+            <div id="notMDhC">
+              <a id="EnsaGgm" contenteditable="true" href="https://www">HOME</a>
+              <a id="gzgGUmK" contenteditable="true" href="https://www">ABOUT</a> 
+              <a id="LAUtcNB" contenteditable="true" href="https://www">SERVICES</a> 
+              <a id="vnkAwDf" contenteditable="true" href="https://www">CONTACT</a> 
+              <a id="kDGAfLB" contenteditable="true" href="https://www">BLOG</a>  
             </div>
-            <button id="QceZEUD">MENU</button>
+            <button id="pUemtJT">MENU</button>
         </div>
 
 
