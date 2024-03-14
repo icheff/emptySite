@@ -41,3 +41,36 @@
     @media screen and (min-width:0px){#gHxVOZw{background: white; padding: 0 15px; color:black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
     
     </style><div id="NJdTGwQ" data-type="container"><div id="TMsgYbf" data-type="backgrounds"><div id="WVrZHWB" data-type="bg-color" class="div-hidden"><div id="YlREtwu" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div><div id="mSockjc" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div><div id="lmTEuyO" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div></div><!-- bg-color --><div id="KIIfNpL" data-type="bg-image" class="div-hidden"><picture id="SWYiIvg"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="dJcKTmZ" src="https://images.unsplash.com/photo-1468436139062-f60a71c5c892?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxtYWN8ZW58MHwwfHx8MTcxMDM2MDMyOHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="BuUzkrI" data-type="bg-video" class="div-visible"><video id="cpEmUdm" autoplay="" loop="" muted="" loading="lazy"><source src="https://player.vimeo.com/progressive_redirect/playback/376147455/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=53ebda59b1ad56aeb26abf275c282f4e85a35a73dab8386522b2d2df7419ca38" type="video/mp4"></video></div><!-- bg-video --></div><!-- backgrounds --><div id="daAuOjK" data-type="content"><div id="bRoyrnW"><h2 id="hRhshZl" contenteditable="true">Lorem ipsum dolor sit amet</h2><p id="FKiAWNq" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p><div id="NDkJGlO"><a id="eciqEid" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="gHxVOZw" contenteditable="true" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
+    
+    
+  
+    
+    
+    <section id="nrERsPE" data-type="section">
+    <style id="rSVhwQd" type="text/css">
+      
+    @media screen and (min-width:0px){#nrERsPE{width:100%;height:100%;position:relative}}
+    @media screen and (min-width:0px){#MMWIUWf{width:100%;height:100%;display:grid;grid-template-columns:1fr 1fr;}}
+    @media screen and (min-width:0px){#EXpMEJT{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#LgHfscF{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#WBJVtlB{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#ZYhmJro{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (max-width:640px){#MMWIUWf{width:100%;height:100%;display:grid;grid-template-columns:1fr;}}
+ 
+    
+    </style>
+    
+      <div id="MMWIUWf" data-type="grid" class="grid-section">
+ 
+          <img id="EXpMEJT" class="grid-item" src="https://images.unsplash.com/photo-1550807014-1236e91b92d4?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEwNDA2NTcxfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="LgHfscF" class="grid-item" src="https://images.unsplash.com/photo-1536534692336-1dc9e76ed9c6?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMDQwNjU3MXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="WBJVtlB" class="grid-item" src="https://images.unsplash.com/photo-1516705051158-795390ef6664?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMDQwNjU3MXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="ZYhmJro" class="grid-item" src="https://images.unsplash.com/photo-1555813456-94a3dd418cd3?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw5fHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzEwNDA2NTcxfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+
+      </div>
+
+
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg" data-type="img-edit">
+    </button>
+  </section>
