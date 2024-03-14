@@ -1,0 +1,40 @@
+<section id="UPHvywW" data-type="section">
+      <style id="pJISONe" type="text/css">
+        
+    @media screen and (min-width:0px){#UPHvywW{position:sticky;top:0;z-index:100;}}
+    @media screen and (min-width:0px){#TqUmIaw{background:#263238;display:grid;grid-template-columns:150px 1fr auto;place-items: center end;}}
+
+    @media screen and (min-width:0px){#LwrjfLw{height:50px;width:auto;}}
+
+    @media screen and (min-width:0px){#rOmCORU{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
+    
+    @media screen and (min-width:0px){#LsQKUIn{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
+    @media screen and (min-width:0px){#jwehwJc{}}
+
+    @media screen and (max-width:640px){#rOmCORU{display:none;}}
+    
+    
+      </style>
+      
+        <div id="TqUmIaw" data-type="grid">
+            <div id="LwrjfLw">
+              <img id="LXZqRbN" src="https://raw.githubusercontent.com/icheff/emptySite/main/media/images/logote_250x100.png" data-type="img-grid" loading="lazy">
+              
+            </div>
+            <div id="rOmCORU">
+              <a id="qrTBGPc" contenteditable="true" href="https://www">HOME</a>
+              <a id="PDgIzpK" contenteditable="true" href="https://www">ABOUT</a> 
+              <a id="mzoFzPA" contenteditable="true" href="https://www">SERVICES</a> 
+              <a id="UQOuDWq" contenteditable="true" href="https://www">CONTACT</a> 
+              <a id="wRMbAQh" contenteditable="true" href="https://www">BLOG</a>  
+            </div>
+            <div id="jwehwJc">
+              <button id="HQscMwt">MENU</button>
+            </div>
+        </div>
+
+
+      <button class="toolbar-open" onclick="toolsOpenModal(this)">
+        <img src="../global/file/edit-section.svg" data-type="img-edit">
+      </button>
+  </section>
