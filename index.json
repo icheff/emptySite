@@ -1,0 +1,39 @@
+<section id="NHDkvCv" data-type="section">
+      <style id="pddiDJQ" type="text/css">
+        
+    @media screen and (min-width:0px){#NHDkvCv{position:sticky;top:0;z-index:100;}}
+    @media screen and (min-width:0px){#riJFmqJ{background:#263238;display:grid;grid-template-columns:auto 1fr auto;place-items: center end;}}
+    @media screen and (min-width:0px){#urhCLUq{}}
+    @media screen and (min-width:0px){#vUNMTiS{height:100px;}}
+    @media screen and (min-width:0px){#thApFff{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
+    @media screen and (min-width:0px){#UoHlQLP{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
+    @media screen and (min-width:0px){#vtnuYtK{height:auto}}
+    @media screen and (min-width:0px){#xnZdNHt{height:auto}}
+
+    @media screen and (max-width:640px){#thApFff{display:none;}}
+    
+    
+      </style>
+      
+        <div id="riJFmqJ" data-type="grid">
+            <div id="urhCLUq">
+              <img id="vUNMTiS" src="https://raw.githubusercontent.com/icheff/emptySite/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy">
+              
+            </div>
+            <div id="thApFff">
+              <a id="TaNVtUo" contenteditable="true" href="https://www">HOME</a>
+              <a id="UmgBZKY" contenteditable="true" href="https://www">ABOUT</a> 
+              <a id="RZElJSK" contenteditable="true" href="https://www">SERVICES</a> 
+              <a id="kmrTZHX" contenteditable="true" href="https://www">CONTACT</a> 
+              <a id="MbDwbLd" contenteditable="true" href="https://www">BLOG</a>  
+            </div>
+            <div id="vtnuYtK">
+              <button id="xnZdNHt">MENU</button>
+            </div>
+        </div>
+
+
+      <button class="toolbar-open" onclick="toolsOpenModal(this)">
+        <img src="../global/file/edit-section.svg" data-type="img-edit">
+      </button>
+  </section>
