@@ -16,7 +16,7 @@ display: grid;
 position:relative;
 width:100vw;
 max-width:1500px;
-padding: 50px;
+padding: 10px 50px;
 gap:10px;
 }
 
