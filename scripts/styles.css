@@ -18,6 +18,7 @@ width:100vw;
 max-width:1500px;
 padding: 10px 50px;
 gap:10px;
+margin:auto;
 }
 
 .grid-section {
