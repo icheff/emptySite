@@ -1,36 +1,34 @@
-<section id="ljJCDKP" data-type="section">
-      <style id="zcqucpu" type="text/css">
+<section id="azRWXGq" data-type="section">
+      <style id="NifGhuW" type="text/css">
         
-    @media screen and (min-width:0px){#ljJCDKP{position:sticky;top:0;z-index:100;}}
-    @media screen and (min-width:0px){#ueooZZb{background:#263238;display:grid;grid-template-columns:auto 1fr auto;place-items: center;}}
-    @media screen and (min-width:0px){#iRjWwHR{}}
-    @media screen and (min-width:0px){#DidBqCO{height:100px;}}
-    @media screen and (min-width:0px){#JJfKmeR{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
-    @media screen and (min-width:0px){#CewifvH{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
-    @media screen and (min-width:0px){#LwdWKJd{height:auto}}
-    @media screen and (min-width:0px){#AsmVceb{height:auto;padding:10px;border:none;border-radius:10px;}}
+    @media screen and (min-width:0px){#azRWXGq{position:sticky;top:0;z-index:100;}}
+    @media screen and (min-width:0px){#fkIuCpm{background:#263238;display:grid;grid-template-columns:auto 1fr auto;place-items: center;}}
+    @media screen and (min-width:0px){#SPPcMhu{}}
+    @media screen and (min-width:0px){#vAmcaIZ{height:100px;}}
+    @media screen and (min-width:0px){#ExMoUSa{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
+    @media screen and (min-width:0px){#IjVWSQY{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
+    @media screen and (min-width:0px){#NAYitEi{height:auto}}
+    @media screen and (min-width:0px){#DXnvCEG{height:auto;padding:10px;border:none;border-radius:10px;}}
 
-    @media screen and (max-width:640px){#JJfKmeR{display:none;}}
+    @media screen and (max-width:640px){#ExMoUSa{display:none;}}
     
     
       </style>
       
-        <div id="ueooZZb" data-type="grid">
-            <div id="iRjWwHR">
-              <img id="DidBqCO" src="https://raw.githubusercontent.com/icheff/emptySite/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy">
+        <div id="fkIuCpm" data-type="grid">
+            <div id="SPPcMhu">
+              <img id="vAmcaIZ" src="https://raw.githubusercontent.com/icheff/emptySite/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy">
               
             </div>
-            <div id="JJfKmeR">
-              <a id="hDghuAE" contenteditable="true" href="https://www">HOME</a>
-              <a id="UFqKWRT" contenteditable="true" href="https://www">ABOUT</a> 
-              <a id="FhScsbT" contenteditable="true" href="https://www">SERVICES</a> 
-              <a id="ovcXxiv" contenteditable="true" href="https://www">CONTACT</a> 
-              <a id="svbGAMg" contenteditable="true" href="https://www">BLOG</a>  
+            <div id="ExMoUSa">
+              <a id="ffOHBhV" contenteditable="true" href="https://www">HOME</a>
+              <a id="GdIvAyh" contenteditable="true" href="https://www">ABOUT</a> 
+              <a id="bDyDRhH" contenteditable="true" href="https://www">SERVICES</a> 
+              <a id="UGWoalS" contenteditable="true" href="https://www">CONTACT</a> 
+              <a id="GtFxxiA" contenteditable="true" href="https://www">BLOG</a>  
             </div>
-            <div id="LwdWKJd">
-              <button id="AsmVceb">
-                <img src="../global/file/edit-section.svg" data-type="img-grid" loading="lazy">
-              </button>
+            <div id="NAYitEi">
+              <button id="DXnvCEG">MENU</button>
             </div>
         </div>
 
