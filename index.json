@@ -39,27 +39,7 @@
       <button class="toolbar-open" onclick="toolsOpenModal(this)">
         <img src="../global/file/edit-section.svg" data-type="img-edit">
       </button>
-  </section><section id="jCPYpXW" data-type="section" class="grid-item"><style id="LSbdhNi" type="text/css">
-      
-    @media screen and (min-width:0px){#jCPYpXW{width:100%;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#GIlCnKt{width:100%;height:100vh;position:relative}}
-    @media screen and (min-width:0px){#RLncKog{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#TYxnMim{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#PKYwFvO{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#iHxCoXO{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#TVBFtXf{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
-    @media screen and (min-width:0px){#AwACcdO{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
-    @media screen and (min-width:0px){#psCfvKx{width:100%;height:100%;display:grid;place-content: center; background: #00000052;}}
-    @media screen and (min-width:0px){#vcXyhyX{display: grid; padding: 5%; max-width:1050px;gap:15px;place-items:center;text-align: center;}}
-    @media screen and (min-width:0px){#vzFbtaK{font-size: clamp(3rem, 12vw, 7rem);line-height:1;font-weight:200;color: white;}}
-    @media screen and (min-width:0px){#XHlLXFZ{font-size:1rem;color:white;}}
-    @media screen and (min-width:0px){#XXaZgmc{display:flex;gap:10px;}}
-    @media screen and (min-width:0px){#WldkZBm{border: 3px solid white; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
-    @media screen and (min-width:0px){#bYOUUmS{background: white; padding: 0 15px; color:black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
-    
-    </style><div id="GIlCnKt" data-type="container"><div id="cYbjYRZ" data-type="backgrounds"><div id="TYxnMim" data-type="bg-color" class="div-hidden"><div id="PKYwFvO" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div><div id="iHxCoXO" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div><div id="TVBFtXf" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div></div><!-- bg-color --><div id="Ngmvgmk" data-type="bg-image" class="div-hidden"><picture id="wcltBUw"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="RLncKog" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="kftbxbv" data-type="bg-video" class="div-visible"><video id="AwACcdO" autoplay="" loop="" muted="" loading="lazy"><source src="https://player.vimeo.com/progressive_redirect/playback/517730537/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=7c172368b46cc4ec8516d5ad5618fd2f46dffb812d95955a927e4040a4751340" type="video/mp4"></video></div><!-- bg-video --></div><!-- backgrounds --><div id="psCfvKx" data-type="content"><div id="vcXyhyX"><h2 id="vzFbtaK" contenteditable="true">Devenez Expert en IA Generative</h2><p id="XHlLXFZ" contenteditable="true">Formación 10online dedié à l' IA Generative&nbsp;</p><div id="XXaZgmc"><a id="WldkZBm" contenteditable="true" href="https://www">En savoir plus</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
-    
-    <section id="mTcerFh" data-type="section" class="grid-item">
+  </section><section id="mTcerFh" data-type="section" class="grid-item">
     <style id="TswLRfC" type="text/css">
       
     @media screen and (min-width:0px){#mTcerFh{width:100%;height:75vh;position:relative}}
@@ -89,7 +69,7 @@
           <div id="XKIRwSY" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
         </div> <!-- bg-color -->
   
-        <div id="xgUHqco" data-type="bg-image" class="div-visible">
+        <div id="xgUHqco" data-type="bg-image" class="div-hidden">
           <picture id="zYkGEUW">
             <source srcset="" media="(max-width:640px)">
             <source srcset="" media="(min-width:641px) and (max-width:1024px)">
@@ -97,9 +77,9 @@
           </picture>
         </div> <!-- bg-image -->
   
-        <div id="EoGGoba" data-type="bg-video" class="div-hidden">
+        <div id="EoGGoba" data-type="bg-video" class="div-visible">
           <video id="oBzIgsr" autoplay="" loop="" muted="" loading="lazy">
-          <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
+          <source src="https://player.vimeo.com/progressive_redirect/playback/517730537/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=7c172368b46cc4ec8516d5ad5618fd2f46dffb812d95955a927e4040a4751340" type="video/mp4">
           </video>
         </div> <!-- bg-video -->
   
@@ -108,7 +88,7 @@
       <div id="DBfDSLc" data-type="content">
         <div id="lJPIOlV">
           <h2 id="cOtdNnC" contenteditable="true">Devenez Expert en IA Generative</h2>
-          <p id="hPjEEaH" contenteditable="true">Lorem ipsum dolor sit amet consectetur</p>
+          <p id="hPjEEaH" contenteditable="true">Formation 10</p>
           <div id="CjvJeWl">
             <a id="xdSwqRv" contenteditable="true" href="https://www">LOREM IPSUM</a>
             <a id="EbolJdR" contenteditable="true" href="https://www">LOREM IPSUM</a>
