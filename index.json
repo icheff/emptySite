@@ -100,3 +100,38 @@
       <img src="../global/file/edit-section.svg">
     </button>
   </section>
+    
+    <section id="DmEGAHP" data-type="section">
+    <style id="fkZpXAw" type="text/css">
+      
+    @media screen and (min-width:0px){#DmEGAHP{width:100%;height:100%;position:relative}}
+    @media screen and (min-width:0px){#UcisacZ{width:100%;height:100%;display:grid;grid-template-columns:1fr 1fr;}}
+    @media screen and (min-width:0px){#woudWnl{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#uJMaJXs{background:white;display:grid;padding:10%;place-content:center;}}
+    @media screen and (min-width:0px){#KwCpwun{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#zsPQfVV{background:white;display:grid;padding:10%;place-content:center;}}
+
+    @media screen and (max-width:640px){#UcisacZ{width:100%;height:100%;display:grid;grid-template-columns:1fr;}}
+    @media screen and (max-width:640px){#zsPQfVV{order:3}}
+ 
+    
+    </style>
+    
+      <div id="UcisacZ" data-type="grid" class="grid-section">
+ 
+          <img id="woudWnl" class="grid-item" src="https://images.unsplash.com/photo-1513258496099-48168024aec0?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxzdHVkZW50JTIwbGFwdG9wfGVufDB8MHx8fDE3MTA1MTI2Njh8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <div id="uJMaJXs" class="grid-item">
+            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea </p>
+          </div>
+          <div id="zsPQfVV" class="grid-item"> 
+            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea </p> 
+          </div>
+          <img id="KwCpwun" class="grid-item" src="https://images.unsplash.com/photo-1520333789090-1afc82db536a?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw5OHx8c3R1ZGVudCUyMGxhcHRvcHxlbnwwfDB8fHwxNzEwNTEyNzE3fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          
+      </div>
+
+
+    <button class="toolbar-open" onclick="toolsOpenModal(this)">
+      <img src="../global/file/edit-section.svg" data-type="img-edit">
+    </button>
+  </section>
