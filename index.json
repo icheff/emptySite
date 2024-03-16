@@ -69,15 +69,15 @@
           <div id="XKIRwSY" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
         </div> <!-- bg-color -->
   
-        <div id="xgUHqco" data-type="bg-image" class="div-hidden">
+        <div id="xgUHqco" data-type="bg-image" class="div-visible">
           <picture id="zYkGEUW">
             <source srcset="" media="(max-width:640px)">
             <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-            <img id="dDTuOth" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy">
+            <img id="dDTuOth" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMXx8c3R1ZGVudCUyMG9ubGluZXxlbnwwfDB8fHwxNzEwNTk4NTM5fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
           </picture>
         </div> <!-- bg-image -->
   
-        <div id="EoGGoba" data-type="bg-video" class="div-visible">
+        <div id="EoGGoba" data-type="bg-video" class="div-hidden">
           <video id="oBzIgsr" autoplay="" loop="" muted="" loading="lazy">
           <source src="https://player.vimeo.com/progressive_redirect/playback/517730537/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=7c172368b46cc4ec8516d5ad5618fd2f46dffb812d95955a927e4040a4751340" type="video/mp4">
           </video>
@@ -88,7 +88,7 @@
       <div id="DBfDSLc" data-type="content">
         <div id="lJPIOlV">
           <h2 id="cOtdNnC" contenteditable="true">Devenez Expert en IA Generative</h2>
-          <p id="hPjEEaH" contenteditable="true">Formation 100% online</p>
+          <p id="hPjEEaH" contenteditable="true">Boostez votre creativité et vos taches quotidiennes 10</p>
           <div id="CjvJeWl">
             <a id="xdSwqRv" contenteditable="true" href="https://www">En savoir plus</a>
             <a id="EbolJdR" contenteditable="true" href="https://www">Rejoignez-nous!</a>
