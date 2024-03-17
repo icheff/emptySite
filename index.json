@@ -10,7 +10,7 @@
     @media screen and (min-width:0px){#gwPcABe{height:auto;padding:10px;border:none;border-radius:10px;}}
 
     @media screen and (max-width:640px){#pkphNoE{display:none;}}
-    @media screen and (max-width:640px){#gLzjEwR{grid-template-columns:repeat(2, auto); place-content:space-around}}
+    @media screen and (max-width:640px){#gLzjEwR{grid-template-columns:repeat(2, auto);place-content:space-around;background:red;}}
     
     
     
