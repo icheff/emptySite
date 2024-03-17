@@ -7,7 +7,7 @@
     @media screen and (min-width:0px){#pkphNoE{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
     @media screen and (min-width:0px){#mwpVDEG{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
     @media screen and (min-width:0px){#XcPwjwU{height:auto}}
-    @media screen and (min-width:0px){#gwPcABe{height:auto;padding:10px;border:none;border-radius:10px;}}
+    @media screen and (min-width:0px){#gwPcABe{height:auto;padding:20px;border:none;border-radius:10px;}}
 
     @media screen and (max-width:640px){#pkphNoE{display:none;}}
     @media screen and (max-width:640px){#gLzjEwR{grid-template-columns:repeat(2, auto);place-content:space-around;}}
