@@ -19,7 +19,7 @@
     <section id="DoaSYKf" data-type="section" class="grid-item">
     <style id="bNmqQWZ" type="text/css" data-type="css">
       
-    @media screen and (min-width:0px){#DoaSYKf{width:100%;height:100vh;position:relative}}
+    @media screen and (min-width:0px){#DoaSYKf{width:100%;height:70vh;position:relative;}}
     @media screen and (min-width:0px){#LjAThih{width:100%;height:100%;position:relative}}
     @media screen and (min-width:0px){#wtlRsXL{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
     @media screen and (min-width:0px){#nyCAYLf{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
@@ -45,7 +45,7 @@
           <div id="pYUCOoE" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
         </div> <!-- bg-color -->
   
-        <div id="CgDFmhf" data-type="bg-image" class="div-visible">
+        <div id="CgDFmhf" data-type="bg-image" class="div-hidden">
           <picture id="VpQCvTE">
             <source srcset="" media="(max-width:640px)">
             <source srcset="" media="(min-width:641px) and (max-width:1024px)">
@@ -53,9 +53,9 @@
           </picture>
         </div> <!-- bg-image -->
   
-        <div id="WYaiyvx" data-type="bg-video" class="div-hidden">
+        <div id="WYaiyvx" data-type="bg-video" class="div-visible">
           <video id="TwmBLgr" autoplay="" loop="" muted="" loading="lazy">
-          <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
+          <source src="https://player.vimeo.com/progressive_redirect/playback/372178133/rendition/540p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=cc3fa7c0a30e19fedcafad5fd6cfa34351364cc4d124219086a9f9b8e679e518" type="video/mp4">
           </video>
         </div> <!-- bg-video -->
   
@@ -63,7 +63,7 @@
   
       <div id="elypFaN" data-type="content">
         <div id="vWecIWe">
-          <h2 id="EtKqaYD" contenteditable="true">Hello</h2>
+          <h2 id="EtKqaYD" contenteditable="true">Marc Jules</h2>
           <p id="ryPJQPB" contenteditable="true">Lorem ipsum dolor sit&nbsp;</p>
           <div id="xhQnoIn">
             <a id="yByBJqp" contenteditable="true" href="https://www">LOREM IPSUM</a>
