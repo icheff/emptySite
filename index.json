@@ -46,7 +46,7 @@
 @media screen and (min-width:0px){#txwMxpx{object-fit:contain;height:100px;width:100px;margin:10px auto;border-radius:50%;}}
 @media screen and (min-width:0px){#sBAHOjM{object-fit:contain;height:100px;width:100px;margin:10px auto;border-radius:50%;padding:10px;}}
 @media screen and (min-width:0px){#TrnqpYU{background:black;color:white;padding:35px;}}
-@media screen and (min-width:0px){#LvYSaFA{background:white;padding:35px;text-align:left;place-content:center;display:grid;}}
+@media screen and (min-width:0px){#LvYSaFA{background:white;padding:35px;text-align:left;place-content:center;display:grid;grid-column: span 2;}}
 @media screen and (min-width:0px){#EOzHxDU{background:black;color:white;padding:35px;}}
 @media screen and (min-width:0px){#RTGZpNn{background:black;color:white;padding:35px;}}
 @media screen and (min-width:0px){#DZhdQQV{width:100%;height:100%;}}
