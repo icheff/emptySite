@@ -1,10 +1,9 @@
 <section id="PbHnCPW" data-type="section"><style id="aYAhAkz" type="text/css" data-type="css">
         
-    @media screen and (min-width:0px){#PbHnCPW{position:sticky;top:0;height:10
-z-index:100;}}
+    @media screen and (min-width:0px){#PbHnCPW{position:sticky;top:0;height:100px;z-index:100;}}
     @media screen and (min-width:0px){#gLzjEwR{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
     @media screen and (min-width:0px){#PRDUexr{}}
-    @media screen and (min-width:0px){#pjmmykb{height:auto;width:auto;object-fit:contain;}}
+    @media screen and (min-width:0px){#pjmmykb{height:10;width:auto;object-fit:contain;}}
     @media screen and (min-width:0px){#pkphNoE{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
     @media screen and (min-width:0px){#mwpVDEG{background-color:white; border:none;border-radius:10px;height:auto;width:auto;padding:10px;}}
     @media screen and (min-width:0px){#XcPwjwU{height:auto}}
