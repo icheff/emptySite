@@ -1,5 +1,4 @@
-<section id="LjSGbbC" data-type="section">
-      <style id="blpXISM" type="text/css" data-type="css">
+<section id="LjSGbbC" data-type="section"><style id="blpXISM" type="text/css" data-type="css">
         
     @media screen and (min-width:0px){#LjSGbbC{position:sticky;top:0;z-index:100;}}
     @media screen and (min-width:0px){#PxjDkrY{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
@@ -15,31 +14,7 @@
     
     
     
-      </style>
-      
-        <div id="PxjDkrY" data-type="grid">
-            <div id="nDCkCxn">
-              <img id="jAuuxmh" src="https://raw.githubusercontent.com/icheff/emptySite/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy">
-            </div>
-
-            <div id="JikmqwH">
-              <a id="kuQXwTP" contenteditable="true" href="https://www">HOME</a>
-              <a id="OpcTGTP" contenteditable="true" href="https://www">ABOUT</a> 
-              <a id="njZgWvQ" contenteditable="true" href="https://www">SERVICES</a> 
-              <a id="bLyDbyY" contenteditable="true" href="https://www">CONTACT</a> 
-              <a id="NvGRzCa" contenteditable="true" href="https://www">BLOG</a>  
-            </div>
-
-            <div id="gcHOXmJ">
-              <button id="SmNSseN">MENU</button>
-            </div>
-        </div>
-
-
-      <button class="toolbar-open" onclick="toolsOpenModal(this)">
-        <img src="../global/file/edit-section.svg" data-type="img-edit">
-      </button>
-  </section><section id="DoaSYKf" data-type="section" class="grid-item"><style id="bNmqQWZ" type="text/css" data-type="css">
+      </style><div id="PxjDkrY" data-type="grid"><div id="nDCkCxn"><img id="jAuuxmh" src="https://raw.githubusercontent.com/icheff/emptySite/main/media/images/IA-logo_200x200.png" data-type="img-grid" loading="lazy"></div><div id="JikmqwH"><a id="kuQXwTP" contenteditable="true" href="https://www">HOME</a><a id="OpcTGTP" contenteditable="true" href="https://www">ABOUT</a><a id="njZgWvQ" contenteditable="true" href="https://www">SERVICES</a><a id="bLyDbyY" contenteditable="true" href="https://www">CONTACT</a><a id="NvGRzCa" contenteditable="true" href="https://www">BLOG</a></div><div id="gcHOXmJ"><button id="SmNSseN">MENU</button></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="DoaSYKf" data-type="section" class="grid-item"><style id="bNmqQWZ" type="text/css" data-type="css">
       
     @media screen and (min-width:0px){#DoaSYKf{width:100%;height:60vh;position:relative;}}
     @media screen and (min-width:0px){#LjAThih{width:100%;height:100%;position:relative}}
@@ -57,13 +32,10 @@
     @media screen and (min-width:0px){#yByBJqp{border: 3px solid white; padding: 0 15px; color: white; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
     @media screen and (min-width:0px){#keQVLFp{background: white; padding: 0 15px; color:black; font-size: 14px; border-radius: 10px; text-underline-position: under; height: 50px; display: grid; place-content: center;}}
     
-    </style><div id="LjAThih" data-type="container"><div id="nyCAYLf" data-type="bg-color" class="div-hidden"><div id="qmPrRip" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div><div id="sHvOVel" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div><div id="pYUCOoE" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div></div><!-- bg-color --><div id="CgDFmhf" data-type="bg-image" class="div-visible"><picture id="VpQCvTE"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="wtlRsXL" src="https://images.unsplash.com/photo-1516705051158-795390ef6664?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMTEyNzA2Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="WYaiyvx" data-type="bg-video" class="div-hidden"><video id="TwmBLgr" autoplay="" loop="" muted="" loading="lazy"><source src="https://player.vimeo.com/progressive_redirect/playback/517730537/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=7c172368b46cc4ec8516d5ad5618fd2f46dffb812d95955a927e4040a4751340" type="video/mp4"></video></div><!-- bg-video --><div id="elypFaN" data-type="content"><div id="vWecIWe"><h2 id="EtKqaYD" contenteditable="true">BETTER PHOTO</h2><p id="ryPJQPB" contenteditable="true">Formation 100 % online</p><div id="xhQnoIn"><a id="yByBJqp" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="keQVLFp" contenteditable="true" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
-    
-    <section id="pCgwBrO" data-type="section">
-    <style id="xwDZilS" type="text/css" data-type="css">
+    </style><div id="LjAThih" data-type="container"><div id="nyCAYLf" data-type="bg-color" class="div-hidden"><div id="qmPrRip" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div><div id="sHvOVel" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div><div id="pYUCOoE" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div></div><!-- bg-color --><div id="CgDFmhf" data-type="bg-image" class="div-visible"><picture id="VpQCvTE"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="wtlRsXL" src="https://images.unsplash.com/photo-1516705051158-795390ef6664?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMTEyNzA2Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="WYaiyvx" data-type="bg-video" class="div-hidden"><video id="TwmBLgr" autoplay="" loop="" muted="" loading="lazy"><source src="https://player.vimeo.com/progressive_redirect/playback/517730537/rendition/360p/file.mp4?loc=external&amp;oauth2_token_id=1747418641&amp;signature=7c172368b46cc4ec8516d5ad5618fd2f46dffb812d95955a927e4040a4751340" type="video/mp4"></video></div><!-- bg-video --><div id="elypFaN" data-type="content"><div id="vWecIWe"><h2 id="EtKqaYD" contenteditable="true">BETTER PHOTO</h2><p id="ryPJQPB" contenteditable="true">Formation 100 % online</p><div id="xhQnoIn"><a id="yByBJqp" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="keQVLFp" contenteditable="true" href="https://www">LOREM IPSUM</a></div><!-- div2ID --></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section><section id="pCgwBrO" data-type="section"><style id="xwDZilS" type="text/css" data-type="css">
       
     @media screen and (min-width:0px){#pCgwBrO{width:100%;height:100%;position:relative;}}
-    @media screen and (min-width:0px){#zOOMhfR{width:auto;height:10;display:grid;grid-template-columns:repeat(6, 100px);}}
+    @media screen and (min-width:0px){#zOOMhfR{width:10;height:100px;display:grid;grid-template-columns:repeat(6, 100px);}}
     @media screen and (min-width:0px){#AxKSlXm{object-fit:cover;height:100%;width:100%;}}}}}
     @media screen and (min-width:0px){#zALKJRe{object-fit:cover;height:100%;width:100%;}}
     @media screen and (min-width:0px){#BcTohYt{object-fit:cover;height:100%;width:100%;}}
@@ -71,19 +43,4 @@
     @media screen and (max-width:640px){#zOOMhfR{width:100%;height:100%;display:grid;grid-template-columns:1fr;}}
  
     
-    </style>
-    
-      <div id="zOOMhfR" data-type="grid" class="grid-section">
- 
-          <img id="AxKSlXm" class="grid-item" src="https://images.unsplash.com/photo-1550807014-1236e91b92d4?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzExMTI3MDY2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-          <img id="zALKJRe" class="grid-item" src="https://images.unsplash.com/photo-1598214886806-c87b84b7078b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMTEyNzA4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-          <img id="BcTohYt" class="grid-item" src="https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNHx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMTEyNzA4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-          <img id="oQRBNcL" class="grid-item" src="https://images.unsplash.com/photo-1669144457338-e72d55e373c7?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0OXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMTEyNzExMHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
-
-      </div>
-
-
-    <button class="toolbar-open" onclick="toolsOpenModal(this)">
-      <img src="../global/file/edit-section.svg" data-type="img-edit">
-    </button>
-  </section>
+    </style><div id="zOOMhfR" data-type="grid" class="grid-section"><img id="AxKSlXm" class="grid-item" src="https://images.unsplash.com/photo-1550807014-1236e91b92d4?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzExMTI3MDY2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"><img id="zALKJRe" class="grid-item" src="https://images.unsplash.com/photo-1598214886806-c87b84b7078b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMTEyNzA4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"><img id="BcTohYt" class="grid-item" src="https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNHx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMTEyNzA4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"><img id="oQRBNcL" class="grid-item" src="https://images.unsplash.com/photo-1669144457338-e72d55e373c7?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0OXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMTEyNzExMHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section>
