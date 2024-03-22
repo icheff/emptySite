@@ -1,6 +1,6 @@
 <section id="PbHnCPW" data-type="section"><style id="aYAhAkz" type="text/css" data-type="css">
         
-    @media screen and (min-width:0px){#PbHnCPW{position:sticky;top:0;height:100px;z-index:100;}}
+    @media screen and (min-width:0px){#PbHnCPW{position:sticky;top:0;max-height : 10auto;z-index:100;}}
     @media screen and (min-width:0px){#gLzjEwR{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
     @media screen and (min-width:0px){#PRDUexr{}}
     @media screen and (min-width:0px){#pjmmykb{height:10;width:auto;object-fit:contain;}}
