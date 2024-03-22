@@ -65,7 +65,7 @@
     @media screen and (min-width:0px){#pCgwBrO{width:100%;height:100%;position:relative}}
     @media screen and (min-width:0px){#zOOMhfR{width:100%;height:100%;display:grid;grid-template-columns:repeat(4, 1fr);}}
     @media screen and (min-width:0px){#AxKSlXm{object-fit:cover;height:100%;height:200px;width:100vw;}}
-    @media screen and (min-width:0px){#zALKJRe{object-fit:cover;height:100%;height:20;width:100vw;}}
+    @media screen and (min-width:0px){#zALKJRe{object-fit:cover;height:110;height:20;width:100vw;}}
     @media screen and (min-width:0px){#BcTohYt{object-fit:cover;height:100%;height:50vh;width:100vw}}
     @media screen and (min-width:0px){#oQRBNcL{object-fit:cover;height:100%;height:50vh;width:100vw}}
     @media screen and (max-width:640px){#zOOMhfR{width:100%;height:100%;display:grid;grid-template-columns:1fr;}}
@@ -75,10 +75,10 @@
     
       <div id="zOOMhfR" data-type="grid" class="grid-section">
  
-          <img id="AxKSlXm" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/1.svg" data-type="img-grid" loading="lazy">
-          <img id="zALKJRe" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/2.svg" data-type="img-grid" loading="lazy">
-          <img id="BcTohYt" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/3.svg" data-type="img-grid" loading="lazy">
-          <img id="oQRBNcL" class="grid-item" src="https://raw.githubusercontent.com/IAMEDIA360/SVGs/main/4.svg" data-type="img-grid" loading="lazy">
+          <img id="AxKSlXm" class="grid-item" src="https://images.unsplash.com/photo-1550807014-1236e91b92d4?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxkYXJrJTIwZm9vZHxlbnwwfDB8fHwxNzExMTI3MDY2fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="zALKJRe" class="grid-item" src="https://images.unsplash.com/photo-1598214886806-c87b84b7078b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMTEyNzA4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="BcTohYt" class="grid-item" src="https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyNHx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMTEyNzA4Nnww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+          <img id="oQRBNcL" class="grid-item" src="https://images.unsplash.com/photo-1669144457338-e72d55e373c7?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0OXx8ZGFyayUyMGZvb2R8ZW58MHwwfHx8MTcxMTEyNzExMHww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
 
       </div>
 
