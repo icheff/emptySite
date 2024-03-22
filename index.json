@@ -63,8 +63,8 @@
     <style id="xwDZilS" type="text/css" data-type="css">
       
     @media screen and (min-width:0px){#pCgwBrO{width:100%;height:100%;position:relative}}
-    @media screen and (min-width:0px){#zOOMhfR{width:10%;height:100%;display:grid;grid-template-columns:repeat(4, 1fr);}}
-    @media screen and (min-width:0px){#AxKSlXm{object-fit:cover;height:100%;height:50vh;width:100vw}}
+    @media screen and (min-width:0px){#zOOMhfR{width:100%;height:100%;display:grid;grid-template-columns:repeat(4, 1fr);}}
+    @media screen and (min-width:0px){#AxKSlXm{object-fit:cover;height:100%;height:10;width:100vw;}}
     @media screen and (min-width:0px){#zALKJRe{object-fit:cover;height:100%;height:50vh;width:100vw}}
     @media screen and (min-width:0px){#BcTohYt{object-fit:cover;height:100%;height:50vh;width:100vw}}
     @media screen and (min-width:0px){#oQRBNcL{object-fit:cover;height:100%;height:50vh;width:100vw}}
