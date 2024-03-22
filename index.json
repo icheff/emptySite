@@ -62,8 +62,8 @@
     <section id="pCgwBrO" data-type="section">
     <style id="xwDZilS" type="text/css" data-type="css">
       
-    @media screen and (min-width:0px){#pCgwBrO{width:auto;height:auto;position:relative;}}
-    @media screen and (min-width:0px){#zOOMhfR{width:10;height:100px;display:grid;grid-template-columns:repeat(4, 1fr);}}
+    @media screen and (min-width:0px){#pCgwBrO{width:10;height:auto;position:relative;}}
+    @media screen and (min-width:0px){#zOOMhfR{width:auto;height:auto;display:grid;grid-template-columns:repeat(4, 1fr);}}
     @media screen and (min-width:0px){#AxKSlXm{object-fit:cover;height:100%;width:100%;}}}}}
     @media screen and (min-width:0px){#zALKJRe{object-fit:cover;height:100%;width:100%;}}
     @media screen and (min-width:0px){#BcTohYt{object-fit:cover;height:100%;width:100%;}}
