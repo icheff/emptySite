@@ -1,7 +1,7 @@
 <section id="LjSGbbC" data-type="section"><style id="blpXISM" type="text/css" data-type="css">
         
     @media screen and (min-width:0px){#LjSGbbC{position:sticky;top:0;z-index:100;}}
-    @media screen and (min-width:0px){#PxjDkrY{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:20px;}}
+    @media screen and (min-width:0px){#PxjDkrY{background:#263238;display:grid;grid-template-columns:repeat(3, auto);place-content:center;align-items:center;gap:100px;}}
     @media screen and (min-width:0px){#nDCkCxn{}}
     @media screen and (min-width:0px){#jAuuxmh{height:100px;width:auto;object-fit:contain}}
     @media screen and (min-width:0px){#JikmqwH{display:flex;gap:20px; place-items:center;margin-right:20px; color:white; font-size:12px;}}
@@ -48,7 +48,7 @@
     @media screen and (min-width:0px){#GUZDuVN{width:100%;height:50vh;position:relative;}}
 
     @media screen and (min-width:0px){#rShQCuU{width:100%;height:50vh;display:grid;grid-template-columns: 1fr 1fr;}}
-    @media screen and (min-width:0px){#oJfqKja{object-fit:cover;height:50vh;width:100%;background:white;}}
+    @media screen and (min-width:0px){#oJfqKja{object-fit:cover;height:50vh;width:100%;background:white;order:1;}}
     @media screen and (min-width:0px){#rjGHNvp{display:grid;place-content:center;background:#f3f8f8;}}
     @media screen and (min-width:0px){#emXQwJj{font-size: clamp(2rem,3vw,4rem);line-height:1;}}
     @media screen and (min-width:0px){#GInlIPG{font-size:1rem;}}
@@ -63,7 +63,7 @@
       
         <div id="rShQCuU" data-type="grid" class="grid-section">
 
-        <img id="oJfqKja" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxNHx8d29ya2luZyUyMGxhcHRvcCUyMHRlYW18ZW58MHwwfHx8MTcxMTE4NDI3OXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+        <img id="oJfqKja" src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1fHxBSXxlbnwwfDB8fHwxNzExMTg0ODE4fDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
       
         <div id="rjGHNvp" class="grid-item grid-text">
           <h2 id="emXQwJj" contenteditable="true">Ut enim ad minim veniam quis nostrud</h2>
@@ -100,7 +100,7 @@
       
         <div id="PVuUpUp" data-type="grid" class="grid-section">
 
-        <img id="BSLeVen" src="https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw2fHxmb29kfGVufDB8MHx8fDE3MTExMjM4NTh8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
+        <img id="BSLeVen" src="https://images.unsplash.com/photo-1561489396-888724a1543d?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxjb25mZXJlbmNlfGVufDB8MHx8fDE3MTExODQ4NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy">
       
         <div id="tGWcqGh" class="grid-item grid-text">
           <h2 id="VpcFaZs" contenteditable="true">Ut enim ad minim veniam quis nostrud</h2>
