@@ -38,7 +38,7 @@
 @media screen and (min-width:0px){#pBTXwC2{background:black;color:white;padding:35px;}}
 @media screen and (min-width:0px){#pBTXwC3{background:black;color:white;padding:35px;}}
 @media screen and (min-width:0px){#pBTXwC4{background:black;color:white;padding:35px;}}
-@media screen and (min-width:0px){#ElqhkKS{display:grid;grid-template-columns:repeat(4,1fr);background:#263238;gap:10px;text-align:center;}}
+@media screen and (min-width:0px){#ElqhkKS{display:grid;grid-template-columns:repeat(4,1fr);background:#263238;gap:1px;text-align:center;}}
 @media screen and (min-width:0px){#KDUAAKx{object-fit:contain;height:100px;width:100px;margin:10px auto;border-radius:50%;}}
 @media screen and (min-width:0px){#dGGVkef{object-fit:contain;height:100px;width:100px;margin:10px auto;border-radius:50%;}}
 @media screen and (min-width:0px){#hEFJqbM{object-fit:contain;height:100px;width:100px;margin:10px auto;border-radius:50%;}}
