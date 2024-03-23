@@ -123,7 +123,7 @@
     <section id="pVCmqAp" data-type="section" class="grid-item">
     <style id="hiZCVmr" type="text/css" data-type="css">
       
-    @media screen and (min-width:0px){#pVCmqAp{width:100%;height:fit-content;position:relative}}
+    @media screen and (min-width:0px){#pVCmqAp{width:100%;height:fit-content;position:relative;background:#547c86;}}
     @media screen and (min-width:0px){#sfCrqky{width:100%;height:auto;position:relative}}
     @media screen and (min-width:0px){#PkPXoMH{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
     @media screen and (min-width:0px){#eKHxlov{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
@@ -145,9 +145,9 @@
       <div id="krmGVpC" data-type="backgrounds">
         
         <div id="eKHxlov" data-type="bg-color" class="div-visible">
-          <div id="lYdpDPG" data-type="solid-color" class="div-visible" style="background: rgb(0, 60, 255);"></div>
-          <div id="TmGuajr" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
-          <div id="juKyidv" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
+          <div id="lYdpDPG" data-type="solid-color" class="div-hidden" style="background: rgb(105, 105, 105);"></div>
+          <div id="TmGuajr" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(225, 0, 188), rgb(255, 0, 0));"></div>
+          <div id="juKyidv" data-type="linear-color" class="div-visible" style="background: linear-gradient(0deg, rgb(3, 0, 174), rgb(90, 164, 255));"></div>
         </div> <!-- bg-color -->
   
         <div id="MlYkEyt" data-type="bg-image" class="div-hidden">
