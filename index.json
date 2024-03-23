@@ -143,7 +143,7 @@
     @media screen and (min-width:0px){#AnOlcHO{width:100%;min-height:50vh;position:relative;}}
 
     @media screen and (min-width:0px){#KKDbQIU{width:100%;height:50vh;display:grid;grid-template-columns: 1fr 1fr;}}
-    @media screen and (min-width:0px){#GqcAqrM{object-fit:cover;height:50vh;width:100%;background:white;order:1;padding:35px;}}
+    @media screen and (min-width:0px){#GqcAqrM{object-fit:cover;height:50vh;width:100%;background:white;order:1;}}
     @media screen and (min-width:0px){#aHRNQTO{display:grid;place-content:center;background:#f3f8f8;}}
     @media screen and (min-width:0px){#MKpByrl{font-size: clamp(2rem,3vw,4rem);line-height:1;}}
     @media screen and (min-width:0px){#WaRNrEQ{font-size:1rem;}}
@@ -154,7 +154,7 @@
     @media screen and (max-width:640px){#aHRNQTO{min-height:50vh; display:grid;place-content:center;padding:10%;background:white;}}
     
     
-      </style><div id="KKDbQIU" data-type="grid" class="grid-section"><img id="GqcAqrM" src="https://raw.githubusercontent.com/icheff/emptySite/main/media/images/zapier-apps.2f2e815d_1200x864.png" data-type="img-grid" loading="lazy"><div id="aHRNQTO" class="grid-item grid-text"><h2 id="MKpByrl" contenteditable="true">IA Automation Expert</h2><p id="WaRNrEQ" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p><div id="hVJUHgZ"><a id="AUjNODU" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="UuFfoPA" contenteditable="true" href="https://www">LOREM IPSUM</a></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="pVCmqAp" data-type="section" class="grid-item"><style id="hiZCVmr" type="text/css" data-type="css">
+      </style><div id="KKDbQIU" data-type="grid" class="grid-section"><img id="GqcAqrM" src="https://raw.githubusercontent.com/icheff/emptySite/main/media/images/1_O1-kbiXhih-EUB6HifvRTA_1400x924.png" data-type="img-grid" loading="lazy"><div id="aHRNQTO" class="grid-item grid-text"><h2 id="MKpByrl" contenteditable="true">IA Automation Expert</h2><p id="WaRNrEQ" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p><div id="hVJUHgZ"><a id="AUjNODU" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="UuFfoPA" contenteditable="true" href="https://www">LOREM IPSUM</a></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="pVCmqAp" data-type="section" class="grid-item"><style id="hiZCVmr" type="text/css" data-type="css">
       
     @media screen and (min-width:0px){#pVCmqAp{width:100%;height:fit-content;position:relative;background:#547c86;}}
     @media screen and (min-width:0px){#sfCrqky{width:100%;height:auto;position:relative}}
