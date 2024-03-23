@@ -17,13 +17,13 @@ position:relative;
 width:100vw;
 max-width:1500px;
 padding: 10px 50px;
-gap:10px;
+gap:35px;
 margin:auto;
 }
 
 .grid-section {
 display:grid;
-gap:10px;
+gap:0px;
 }
 
 .grid-item {
