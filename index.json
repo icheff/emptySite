@@ -65,23 +65,7 @@
 
     @media screen and (max-width:640px){#rShQCuU{width:100%;height:max-content;display:grid;grid-template-columns:1fr;}}
     @media screen and (max-width:640px){#oJfqKja{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;order:1;}}
-    @media screen and (max-width:640px){#rjGHNvp{min-height:50vh; display:grid;place-content:center;padding:10%;background:white;}}</style><div id="rShQCuU" data-type="grid" class="grid-section"><img id="oJfqKja" src="https://images.unsplash.com/photo-1515634928627-2a4e0dae3ddf?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8ZmlsbSUyMGVkaXRpb258ZW58MHwwfHx8MTcxMTE4NTE4N3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"><div id="rjGHNvp" class="grid-item grid-text"><h2 id="emXQwJj" contenteditable="true">IA Video Expert</h2><p id="GInlIPG" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p><div id="uBJCojf"><a id="nPJBhGs" contenteditable="true" href="https://www">En savoir plus</a></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="DjJUpRO" data-type="section"><style id="UkzZWhl" type="text/css" data-type="css">
-        
-    @media screen and (min-width:0px){#DjJUpRO{width:100%;height:50vh;position:relative;}}
-
-    @media screen and (min-width:0px){#LZeMetr{width:100%;height:50vh;display:grid;grid-template-columns: 1fr 1fr;}}
-    @media screen and (min-width:0px){#UzxbApb{object-fit:cover;height:50vh;width:100%;background:white;order:1;}}
-    @media screen and (min-width:0px){#aKcvCnA{display:grid;place-content:center;background:#f3f8f8;}}
-    @media screen and (min-width:0px){#ctfufmx{font-size: clamp(2rem,3vw,4rem);line-height:1;}}
-    @media screen and (min-width:0px){#BCLQnup{font-size:1rem;}}
-    @media screen and (min-width:0px){#ndeVZcS{display:flex;gap:15px;}}
-
-    @media screen and (max-width:640px){#LZeMetr{width:100%;height:max-content;display:grid;grid-template-columns:1fr;}}
-    @media screen and (max-width:640px){#UzxbApb{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;order:1;}}
-    @media screen and (max-width:640px){#aKcvCnA{min-height:50vh; display:grid;place-content:center;padding:10%;background:white;}}
-    
-    
-      </style><div id="LZeMetr" data-type="grid" class="grid-section"><img id="UzxbApb" src="https://images.unsplash.com/photo-1453000109878-d4619d01587c?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMHx8cGhvdG98ZW58MHwwfHx8MTcxMTE4NTIxNXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"><div id="aKcvCnA" class="grid-item grid-text"><h2 id="ctfufmx" contenteditable="true">IA Assistant Expert</h2><p id="BCLQnup" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p><div id="ndeVZcS"><a id="fDBURAS" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="OjMvXxL" contenteditable="true" href="https://www">LOREM IPSUM</a></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="JDegCGV" data-type="section"><style id="gEzyFLb" type="text/css" data-type="css">
+    @media screen and (max-width:640px){#rjGHNvp{min-height:50vh; display:grid;place-content:center;padding:10%;background:white;}}</style><div id="rShQCuU" data-type="grid" class="grid-section"><img id="oJfqKja" src="https://images.unsplash.com/photo-1515634928627-2a4e0dae3ddf?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxM3x8ZmlsbSUyMGVkaXRpb258ZW58MHwwfHx8MTcxMTE4NTE4N3ww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"><div id="rjGHNvp" class="grid-item grid-text"><h2 id="emXQwJj" contenteditable="true">IA Video Expert</h2><p id="GInlIPG" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p><div id="uBJCojf"><a id="nPJBhGs" contenteditable="true" href="https://www">En savoir plus</a></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="JDegCGV" data-type="section"><style id="gEzyFLb" type="text/css" data-type="css">
         
     @media screen and (min-width:0px){#JDegCGV{width:100%;height:50vh;position:relative;}}
 
@@ -97,7 +81,23 @@
     @media screen and (max-width:640px){#FLpPfob{min-height:50vh; display:grid;place-content:center;padding:10%;background:white;}}
     
     
-      </style><div id="MneRIdI" data-type="grid" class="grid-section"><img id="lzejqus" src="https://images.unsplash.com/photo-1453000109878-d4619d01587c?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMHx8cGhvdG98ZW58MHwwfHx8MTcxMTE4NTIxNXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"><div id="FLpPfob" class="grid-item grid-text"><h2 id="SXWxJfv" contenteditable="true">IA Audio Expert</h2><p id="roRqDBO" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p><div id="WMynQjS"><a id="ZBIOAHp" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="UlksIGZ" contenteditable="true" href="https://www">LOREM IPSUM</a></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="kNaoFlw" data-type="section"><style id="QssSbPr" type="text/css" data-type="css">
+      </style><div id="MneRIdI" data-type="grid" class="grid-section"><img id="lzejqus" src="https://images.unsplash.com/photo-1453000109878-d4619d01587c?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMHx8cGhvdG98ZW58MHwwfHx8MTcxMTE4NTIxNXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"><div id="FLpPfob" class="grid-item grid-text"><h2 id="SXWxJfv" contenteditable="true">IA Audio Expert</h2><p id="roRqDBO" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p><div id="WMynQjS"><a id="ZBIOAHp" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="UlksIGZ" contenteditable="true" href="https://www">LOREM IPSUM</a></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="DjJUpRO" data-type="section"><style id="UkzZWhl" type="text/css" data-type="css">
+        
+    @media screen and (min-width:0px){#DjJUpRO{width:100%;height:50vh;position:relative;}}
+
+    @media screen and (min-width:0px){#LZeMetr{width:100%;height:50vh;display:grid;grid-template-columns: 1fr 1fr;}}
+    @media screen and (min-width:0px){#UzxbApb{object-fit:cover;height:50vh;width:100%;background:white;order:1;}}
+    @media screen and (min-width:0px){#aKcvCnA{display:grid;place-content:center;background:#f3f8f8;}}
+    @media screen and (min-width:0px){#ctfufmx{font-size: clamp(2rem,3vw,4rem);line-height:1;}}
+    @media screen and (min-width:0px){#BCLQnup{font-size:1rem;}}
+    @media screen and (min-width:0px){#ndeVZcS{display:flex;gap:15px;}}
+
+    @media screen and (max-width:640px){#LZeMetr{width:100%;height:max-content;display:grid;grid-template-columns:1fr;}}
+    @media screen and (max-width:640px){#UzxbApb{object-fit:cover;height:100%;min-height:50vh;width:100%;display:grid;order:1;}}
+    @media screen and (max-width:640px){#aKcvCnA{min-height:50vh; display:grid;place-content:center;padding:10%;background:white;}}
+    
+    
+      </style><div id="LZeMetr" data-type="grid" class="grid-section"><img id="UzxbApb" src="https://images.unsplash.com/photo-1453000109878-d4619d01587c?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMHx8cGhvdG98ZW58MHwwfHx8MTcxMTE4NTIxNXww&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-grid" loading="lazy"><div id="aKcvCnA" class="grid-item grid-text"><h2 id="ctfufmx" contenteditable="true">IA Assistant Expert</h2><p id="BCLQnup" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p><div id="ndeVZcS"><a id="fDBURAS" contenteditable="true" href="https://www">LOREM IPSUM</a><a id="OjMvXxL" contenteditable="true" href="https://www">LOREM IPSUM</a></div></div></div><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg" data-type="img-edit"></button></section><section id="kNaoFlw" data-type="section"><style id="QssSbPr" type="text/css" data-type="css">
         
     @media screen and (min-width:0px){#kNaoFlw{width:100%;height:50vh;position:relative;}}
 
